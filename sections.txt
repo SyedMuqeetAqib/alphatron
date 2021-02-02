@@ -1,0 +1,21 @@
+about us
+our teams
+products
+events
+gallery
+clients
+news
+events
+
+tables:
+company details (company id, company name, company address)
+website 
+
+Home_page (Company Logo, menu items, )
+
+menu items (menu id, menu items)
+	submenu items (submenu items, menu id)
+
+pages (page id)
+
+paragraphs ()
